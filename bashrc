@@ -13,7 +13,6 @@ alias op='xdg-open'
 alias cl='clear'
 alias ip='ipython'
 alias ll='ls -avlF'
-alias ls='ls -v'
 
 alias ta='tmux attach -t'
 alias tl='tmux ls'
